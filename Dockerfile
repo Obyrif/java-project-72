@@ -1,4 +1,4 @@
-FROM eclipse-temurin:20.0.1-jdk
+FROM adoptopenjdk:20.0.1-jdk
 
 ARG GRADLE_VERSION=8.4
 
