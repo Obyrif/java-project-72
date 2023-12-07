@@ -19,4 +19,3 @@ public class Url {
         this.createdAt = createdAt;
     }
 }
-
