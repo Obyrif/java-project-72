@@ -1,4 +1,4 @@
-FROM eclipse-temurin:20-jdk
+FROM docker pull gradle:jdk20
 
 ARG GRADLE_VERSION=8.3
 
