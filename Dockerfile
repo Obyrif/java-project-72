@@ -1,4 +1,4 @@
-FROM docker pull gradle:jdk20
+FROM gradle:jdk20
 
 ARG GRADLE_VERSION=8.3
 
